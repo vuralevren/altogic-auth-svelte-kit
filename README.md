@@ -1,4 +1,4 @@
-# Email & Password Based Authentication Using SvelteKit & Altogic
+# Email & Password Based Authentication Using SvelteKit & Altogic
 
 ## Introduction
 **Altogic** is a Backend as a Service (BaaS) platform and provides a variety of services in modern web and mobile development. Most of the modern applications using Svelte or other libraries/frameworks require to know the identity of a user. And this necessity allows an app to securely save user data and session in the cloud and provide more personalized functionalities and views to users.
